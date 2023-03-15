@@ -41,9 +41,9 @@ void Walking(Node* root){
 
 }
 
-int main() {
+int main(int argc, char** argv) {
     std::ifstream file;
-    file.open("/Users/indo.evri.momint/Documents/untitled/discr.txt");
+    file.open(argv[1]);
     if (!file.is_open()){
         return 0;
     }
