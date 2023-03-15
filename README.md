@@ -23,15 +23,16 @@ x y n a_1 a_2 ... a_n
 
 Пример:
 
-10
-0 Armenia 2 16 45
-1 Albania 4 17 22 30 32
-2 Andorra 2 14 42
-3 Austria 8 10 15 18 21 24 40 41 44
-4 Belarus 5 23 25 34 37 46
-5 Belgium 4 14 15 26 31
-6 Herzegovina 3 8 30 39
-7 Bulgaria 5 17 32 36 39 45
-8 Croatia 5 6 18 30 39 41
-9 Cyprus 0
+10  
+0 Armenia 2 16 45  
+1 Albania 4 17 22 30 32  
+2 Andorra 2 14 42  
+3 Austria 8 10 15 18 21 24 40 41 44  
+4 Belarus 5 23 25 34 37 46  
+5 Belgium 4 14 15 26 31  
+6 Herzegovina 3 8 30 39  
+7 Bulgaria 5 17 32 36 39 45  
+8 Croatia 5 6 18 30 39 41  
+9 Cyprus 0  
+
 
